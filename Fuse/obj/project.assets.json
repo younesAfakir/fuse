@@ -12563,17 +12563,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Younes/Desktop/Fuse/Fuse/Fuse.csproj",
+      "projectUniqueName": "/Users/Younes/Desktop/fuse/Fuse/Fuse.csproj",
       "projectName": "Fuse",
-      "projectPath": "/Users/Younes/Desktop/Fuse/Fuse/Fuse.csproj",
+      "projectPath": "/Users/Younes/Desktop/fuse/Fuse/Fuse.csproj",
       "packagesPath": "/Users/Younes/.nuget/packages/",
-      "outputPath": "/Users/Younes/Desktop/Fuse/Fuse/obj/",
+      "outputPath": "/Users/Younes/Desktop/fuse/Fuse/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Younes/.nuget/NuGet/NuGet.Config"
+        "/Users/Younes/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
