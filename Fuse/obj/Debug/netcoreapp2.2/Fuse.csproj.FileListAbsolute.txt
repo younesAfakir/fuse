@@ -1,0 +1,14 @@
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.csproj.CoreCompileInputs.cache
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.RazorAssemblyInfo.cache
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.RazorAssemblyInfo.cs
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.AssemblyInfoInputs.cache
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.AssemblyInfo.cs
+/Users/Younes/Desktop/Fuse/Fuse/bin/Debug/netcoreapp2.2/Fuse.deps.json
+/Users/Younes/Desktop/Fuse/Fuse/bin/Debug/netcoreapp2.2/Fuse.runtimeconfig.json
+/Users/Younes/Desktop/Fuse/Fuse/bin/Debug/netcoreapp2.2/Fuse.runtimeconfig.dev.json
+/Users/Younes/Desktop/Fuse/Fuse/bin/Debug/netcoreapp2.2/Fuse.dll
+/Users/Younes/Desktop/Fuse/Fuse/bin/Debug/netcoreapp2.2/Fuse.pdb
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.RazorTargetAssemblyInfo.cache
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.dll
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.pdb
+/Users/Younes/Desktop/Fuse/Fuse/obj/Debug/netcoreapp2.2/Fuse.csprojAssemblyReference.cache
